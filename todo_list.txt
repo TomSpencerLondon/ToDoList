@@ -1,0 +1,4 @@
+Todo List Workflow
+
+1. Build a piece, then test it, build another piece, then test it.
+2. Know that each brick is sound and stable before you put another on top of it.
