@@ -17,7 +17,8 @@ As a user I can open a list from a text file
 As a user I can save a list to a text file
 As a user I can delete a task
 As a user I can update a task
+
 Reach User Stories
-----------
+------
 As a user I can set a task status
 As a user I can toggle a task status as complete or incomplete
